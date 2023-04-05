@@ -10,5 +10,5 @@ public class ReddotApplication {
 		SpringApplication.run(ReddotApplication.class, args);
 	}
 }
-
+//alteration for commit
 
